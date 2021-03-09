@@ -1,0 +1,12 @@
+2020-11-04 12:01:23,033 trainning deeplabv3-plus INFO: start training
+INFO:trainning deeplabv3-plus:start training
+Epoch:0, Training Loss:0.00241546, Validation Loss:212105950669598866962120704.00000000
+2020-11-04 13:06:19,045 trainning deeplabv3-plus INFO: Epoch:0, Training Loss:0.00241546, Validation Loss:212105950669598866962120704.00000000
+INFO:trainning deeplabv3-plus:Epoch:0, Training Loss:0.00241546, Validation Loss:212105950669598866962120704.00000000
+2020-11-04 13:46:23,983 trainning deeplabv3-plus INFO: start training
+INFO:trainning deeplabv3-plus:start training
+Epoch:0, Training Loss:0.00150090, Validation Loss:34077741093094486016.00000000
+2020-11-04 14:53:18,812 trainning deeplabv3-plus INFO: Epoch:0, Training Loss:0.00150090, Validation Loss:34077741093094486016.00000000
+INFO:trainning deeplabv3-plus:Epoch:0, Training Loss:0.00150090, Validation Loss:34077741093094486016.00000000
+2020-11-04 18:55:57,924 trainning deeplabv3-plus INFO: start training
+INFO:trainning deeplabv3-plus:start training
